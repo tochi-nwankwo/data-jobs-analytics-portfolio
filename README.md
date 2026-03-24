@@ -24,7 +24,7 @@ focusing on Data Analyst, Data Engineer, and Data Scientist roles.
 
 ## Download
 Download the Power BI file to interact with the dashboard:
-[📥 Click here to download](Jobs Dashboard.pbix)
+[📥 Click here to download](JobsDashboard.pbix) 
 
 ## Dashboard Preview
 ![Dashboard Preview](Data_Jobs_Dashboard_Preview.png) 
