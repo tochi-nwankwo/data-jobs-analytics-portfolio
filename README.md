@@ -18,7 +18,7 @@ An end-to-end data analysis project exploring **32,672 job postings** across the
 An interactive Power BI dashboard for exploring the data jobs market.
 
 ### 📥 Download
-> [**Download JobsDashboard.pbix**](https://github.com/tochi-nwankwo/data-jobs-dashboard/blob/main/JobsDashboard.pbix)  
+> [**Download JobsDashboard.pbix**](https://github.com/tochi-nwankwo/data-jobs-analytics-portfolio/blob/main/JobsDashboard.pbix)  
 > *(Requires Power BI Desktop — free download from Microsoft)*
 
 ### 📸 Preview
@@ -29,7 +29,7 @@ An interactive Power BI dashboard for exploring the data jobs market.
 ## 📗 Excel Analysis — `Tochy_s_Portfolio.xlsx`
 
 ### 📥 Download
-> [**Download Tochy_s_Portfolio.xlsx**](https://github.com/tochi-nwankwo/data-jobs-dashboard/blob/main/Tochy_s_Portfolio.xlsx)  
+> [**Download Tochy_s_Portfolio.xlsx**](https://github.com/tochi-nwankwo/data-jobs-analytics-portfolio/blob/main/Tochy_s_Portfolio.xlsx)  
 > *(Requires Microsoft Excel or Google Sheets)*
 
 
