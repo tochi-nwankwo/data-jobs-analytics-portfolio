@@ -28,6 +28,11 @@ An interactive Power BI dashboard for exploring the data jobs market.
 
 ## 📗 Excel Analysis — `Tochy_s_Portfolio.xlsx`
 
+### 📥 Download
+> [**Download Tochy_s_Portfolio.xlsx**](https://github.com/tochi-nwankwo/data-jobs-dashboard/blob/main/Tochy_s_Portfolio.xlsx)  
+> *(Requires Microsoft Excel or Google Sheets)*
+
+
 A structured Excel workbook with 4 sheets analyzing job posting trends, salary data, and role distribution.
 
 ### 📸 Preview
