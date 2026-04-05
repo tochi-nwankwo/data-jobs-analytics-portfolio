@@ -33,28 +33,25 @@ An interactive Power BI dashboard for exploring the data jobs market.
 > *(Requires Microsoft Excel or Google Sheets)*
 
 
-A structured Excel workbook with 4 sheets analyzing job posting trends, salary data, and role distribution.
-
-### 📸 Preview
-![Excel Charts](excel_screenshot.png)
+A structured Excel workbook with 5 sheets analyzing job posting trends, salary data, and role distribution.
 
 ### Sheets Overview
 
 #### 1. 🗃️ Data
-Raw dataset of **32,672 job postings** with 16 fields including:
-- Job title, location, country, and posting date
-- Salary (annual & hourly averages)
-- Required skills, schedule type, and remote work flag
-- Health insurance and degree requirement flags
+Raw dataset of **32,672 job postings** with 16 fields including job title, location, country, posting date, salary, required skills, schedule type, remote work flag, health insurance and degree requirement flags.
 
 #### 2. 📈 Line Chart — Job Postings by Month
 Tracks how job posting volume changed across each month of the year, revealing hiring trends and seasonal patterns in the data industry.
 
+![Line Chart](excel_linechart_screenshot.png)
+
 #### 3. 🥧 Pie Chart — Degree Requirements
 Breaks down the share of roles that mention a degree requirement vs. those that don't — useful for understanding accessibility in data careers.
 
+![Pie Chart](excel_piechart_screenshot.png)
+
 #### 4. 📊 Column/Bar Chart — Jobs by Title
-Compares posting counts across the top data job titles:
+Compares posting counts across the top data job titles.
 
 | Job Title | Postings |
 |-----------|----------|
@@ -66,6 +63,13 @@ Compares posting counts across the top data job titles:
 | Senior Data Analyst | 1,484 |
 | Business Analyst | 1,001 |
 | Machine Learning Engineer | 621 |
+
+![Bar Chart](excel_barchart_screenshot.png)
+
+#### 5. 🔵 Scatter Chart — Salary by Job Title
+Plots each job title against both their yearly and hourly median salary, making it easy to compare compensation across roles at a glance.
+
+![Scatter Chart](excel_scatterchart_screenshot.png)
 
 ---
 
